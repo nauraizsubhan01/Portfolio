@@ -16,9 +16,11 @@ commerce on WhatsApp, offline-first apps, and the robotics/control foundations u
 - [Featured Projects](#-featured-projects)
   - [Wbns03 — WhatsApp Ordering Bot](#1-wbns03--whatsapp-ordering-bot)
   - [RestroHub — Multi-Tenant Restaurant SaaS (PHP / Laravel)](#2-restrohub--multi-tenant-restaurant-saas-php--laravel)
+  - [AutoCAD Electrical — Control Panel Design](#3-autocad-electrical--control-panel-design)
 - [Skillset](#-skillset)
   - [System Design](#-system-design)
   - [Robotics & Control](#-robotics--control)
+  - [Electrical Design](#-electrical-design)
   - [Languages, Frameworks & Tooling](#-languages-frameworks--tooling)
 - [Project Portfolio Template](#-project-portfolio-template)
 - [Contact](#-contact)
@@ -31,6 +33,7 @@ commerce on WhatsApp, offline-first apps, and the robotics/control foundations u
 |---|---|---|---|
 | [**Wbns03**](./projects/wbns03-whatsapp-bot.md) | WhatsApp food-ordering agent for Dera Foods, Karachi | TypeScript · Node 20 · Express · PostgreSQL · Meta Cloud API · DeepSeek | 🟢 Phase 0 live · Phase 1 (ordering) in progress |
 | [**RestroHub**](./projects/restrohub.md) | Multi-tenant restaurant management SaaS — POS, ordering site, admin | PHP 8.3 · Laravel 12 · MySQL 8 · Redis · Reverb · React 18 · TypeScript | 🟢 v1.1 released |
+| [**AutoCAD Electrical Panel Design**](./projects/autocad-electrical-panel-design.md) | Industrial electrical control panel design: schematics, layouts and documentation | AutoCAD Electrical | 🔵 Documentation in preparation |
 
 ---
 
@@ -92,6 +95,29 @@ commerce on WhatsApp, offline-first apps, and the robotics/control foundations u
 
 ---
 
+### 3. AutoCAD Electrical — Control Panel Design
+
+> A collection of industrial **electrical control panel designs** built in **AutoCAD Electrical**:
+> power and control schematics, panel layouts, and the documentation needed to build them.
+
+> [!NOTE]
+> **Project documentation is in preparation.** Drawings, schematics and design notes are
+> being curated and will be published here shortly.
+
+**Planned scope**
+
+- ⚡ Power distribution and control circuit schematics
+- 🗄️ Panel enclosure layouts and component arrangement
+- 🔌 Terminal plans, wiring diagrams and wire numbering
+- 📋 Bills of materials (BOM) and project reports
+- 📐 Drawings that follow IEC / NFPA drafting conventions
+
+**Tools:** `AutoCAD Electrical`
+
+➡️ [Project page](./projects/autocad-electrical-panel-design.md)
+
+---
+
 ## 🧠 Skillset
 
 ### 🏗️ System Design
@@ -118,6 +144,14 @@ commerce on WhatsApp, offline-first apps, and the robotics/control foundations u
 | **Perception** | Sensor fusion fundamentals, computer vision basics (OpenCV) |
 | **Lab Work** | Control & robotics lab experiments ([Control_Robotics_Lab](https://github.com/nauraizsubhan01/Control_Robotics_Lab)) |
 
+### ⚡ Electrical Design
+
+| Area | Skills |
+|---|---|
+| **CAD** | AutoCAD Electrical: schematic and panel layout drafting, symbol libraries, project-based drawing sets |
+| **Panel Design** | Control panel layouts, component selection and placement, enclosure planning |
+| **Documentation** | Wiring diagrams, terminal plans, wire numbering, BOMs and automated reports |
+
 ### 🛠️ Languages, Frameworks & Tooling
 
 <p>
@@ -137,6 +171,7 @@ commerce on WhatsApp, offline-first apps, and the robotics/control foundations u
 <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white" />
 <img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white" />
 <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white" />
+<img src="https://img.shields.io/badge/AutoCAD_Electrical-E51050?style=flat&logo=autodesk&logoColor=white" />
 <img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white" />
 <img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=flat&logo=whatsapp&logoColor=white" />
 </p>
