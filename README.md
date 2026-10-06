@@ -189,5 +189,5 @@ into `projects/<project-name>.md`, fill it in, then add a row to the
 ## 📫 Contact
 
 - GitHub: [@nauraizsubhan01](https://github.com/nauraizsubhan01)
-- LinkedIn: _add link_
-- Email: _add email_
+- LinkedIn: [nauraizsubhan01](https://www.linkedin.com/in/nauraizsubhan01)
+- Email: [nauraizsubhan02@gmail.com](mailto:nauraizsubhan02@gmail.com)
